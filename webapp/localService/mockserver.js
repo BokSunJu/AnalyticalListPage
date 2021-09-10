@@ -1,4 +1,5 @@
-sap.ui.define(['sap/ui/core/util/MockServer'], function(MockServer) {
+sap.ui.define(['sap/ui/core/util/MockServer'
+], function(MockServer) {
     'use strict';
     var oMockServer,
         _sAppModulePath = 'com/confio3/zdemoalpflight12/',
